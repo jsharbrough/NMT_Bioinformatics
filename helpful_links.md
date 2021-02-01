@@ -1,20 +1,19 @@
 #Helpful links:
-This site was built using [GitHub Pages](https://pages.github.com/).
 
-[BLAST](https://blast.ncbi.nlm.nih.gov/)
+**[BLAST](https://blast.ncbi.nlm.nih.gov/)**
 
-**[ExPASY translate tool]()**
+**[ExPASY translate tool](https://web.expasy.org/translate/)**
 
-**[Flybase]()** - Genome portal for Drosophila
+**[Flybase](https://flybase.org/)** - Genome portal for Drosophila
 
 **[MAFFT](https://mafft.cbrc.jp/alignment/software/)**
 
-**[Reverse Complement]()**
+**[Reverse Complement](https://www.bioinformatics.org/sms/rev_comp.html)**
 
 **[SRA](https://www.ncbi.nlm.nih.gov/sra)**
 
-**[TAIR]()** – The Arabidopsis Information Resource
+**[TAIR](https://arabidopsis.org/)** – The Arabidopsis Information Resource
 
-**[UCSC Genome Browser]()**
+**[UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgGateway)**
 
-**[Wormbase]()** – Genome portal for Caenorhabditis elegans
+**[Wormbase](https://wormbase.org)** – Genome portal for Caenorhabditis elegans
