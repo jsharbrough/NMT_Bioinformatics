@@ -1,4 +1,4 @@
-#Helpful links:
+# Helpful links:
 
 **[BLAST](https://blast.ncbi.nlm.nih.gov/)**
 
@@ -6,11 +6,11 @@
 
 **[Flybase](https://flybase.org/)** - Genome portal for Drosophila
 
-**[MAFFT](https://mafft.cbrc.jp/alignment/software/)**
+**[MAFFT](https://mafft.cbrc.jp/alignment/software/)** – MAFFT aligner
 
 **[Reverse Complement](https://www.bioinformatics.org/sms/rev_comp.html)**
 
-**[SRA](https://www.ncbi.nlm.nih.gov/sra)**
+**[SRA](https://www.ncbi.nlm.nih.gov/sra)** – NCBI Sequence Read Archive
 
 **[TAIR](https://arabidopsis.org/)** – The Arabidopsis Information Resource
 
