@@ -18,4 +18,4 @@
 
 **[Wormbase](https://wormbase.org)** – Genome portal for Caenorhabditis elegans
 
-**[pbbioconda](https://github.com/PacificBiosciences/pbbioconda)**
+**[pbbioconda](https://github.com/PacificBiosciences/pbbioconda)** – Page for all the PacBio software
