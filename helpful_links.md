@@ -19,3 +19,5 @@
 **[Wormbase](https://wormbase.org)** – Genome portal for Caenorhabditis elegans
 
 **[pbbioconda](https://github.com/PacificBiosciences/pbbioconda)** – Page for all the PacBio software
+
+**[RMACC Access to Summit](https://curc.readthedocs.io/en/latest/access/rmacc.html)** – Documentation of access to RMACC Summit
