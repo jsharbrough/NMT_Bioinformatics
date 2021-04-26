@@ -24,4 +24,6 @@
 
 **[Samtools Manual](http://www.htslib.org/doc/samtools.html)** - Cheat sheet for samtools commands
 
-**[NCBI Primer design](https://www.ncbi.nlm.nih.gov/tools/primer-blast/)** NCBI's primer design page
+**[Bioconda Getting Started]**(https://bioconda.github.io/user/install.html)** - If you're having trouble with getting pbmerge and pbindex to work, install bioconda.
+
+**[bx-python fix]**(https://anaconda.org/bioconda/bx-python)** - See here if you're having trouble installing bx-python
