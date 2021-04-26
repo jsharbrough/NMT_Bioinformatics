@@ -17,3 +17,5 @@
 **[UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgGateway)**
 
 **[Wormbase](https://wormbase.org)** – Genome portal for Caenorhabditis elegans
+
+**[pbbioconda](https://github.com/PacificBiosciences/pbbioconda)** – Page for all the PacBio software
