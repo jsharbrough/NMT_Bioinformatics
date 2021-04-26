@@ -23,3 +23,5 @@
 **[RMACC Access to Summit](https://curc.readthedocs.io/en/latest/access/rmacc.html)** – Documentation of access to RMACC Summit
 
 **[Samtools Manual](http://www.htslib.org/doc/samtools.html)** - Cheat sheet for samtools commands
+
+**[NCBI Primer design](https://www.ncbi.nlm.nih.gov/tools/primer-blast/)** NCBI's primer design page
