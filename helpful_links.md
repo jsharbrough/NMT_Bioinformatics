@@ -31,8 +31,12 @@
 
 **[Samtools Manual](http://www.htslib.org/doc/samtools.html)** - Cheat sheet for samtools commands
 
+
+**[Bash scripting cheatsheet](https://devhints.io/bash)** - Bash scripting cheatsheet
+
 **[Bioconda Getting Started](https://bioconda.github.io/user/install.html)** - If you're having trouble with getting pbmerge and pbindex to work, install bioconda.
 
 **[bx-python fix](https://anaconda.org/bioconda/bx-python)** - See here if you're having trouble installing bx-python
+
 
 
