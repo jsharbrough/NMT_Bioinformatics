@@ -21,3 +21,5 @@
 **[pbbioconda](https://github.com/PacificBiosciences/pbbioconda)** – Page for all the PacBio software
 
 **[RMACC Access to Summit](https://curc.readthedocs.io/en/latest/access/rmacc.html)** – Documentation of access to RMACC Summit
+
+**[Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)** – Helpful guide for understanding vi (visual editor in unix)
