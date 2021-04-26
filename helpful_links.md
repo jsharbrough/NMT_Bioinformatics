@@ -23,3 +23,10 @@
 **[RMACC Access to Summit](https://curc.readthedocs.io/en/latest/access/rmacc.html)** – Documentation of access to RMACC Summit
 
 **[Slurm_Job_Arrays](https://help.rc.ufl.edu/doc/SLURM_Job_Arrays)** – Introduction to creating and runnning a SLURM Job Array script
+
+**[Samtools Manual](http://www.htslib.org/doc/samtools.html)** - Cheat sheet for samtools commands
+
+**[Bioconda Getting Started](https://bioconda.github.io/user/install.html)** - If you're having trouble with getting pbmerge and pbindex to work, install bioconda.
+
+**[bx-python fix](https://anaconda.org/bioconda/bx-python)** - See here if you're having trouble installing bx-python
+
