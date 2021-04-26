@@ -24,13 +24,11 @@
 
 **[RMACC Access to Summit](https://curc.readthedocs.io/en/latest/access/rmacc.html)** – Documentation of access to RMACC Summit
 
-
 **[UNIX Command Guide](https://www.tutorialspoint.com/unix/unix-useful-commands.htm)** – Tutorial for useful UNIX commands
 
 **[Slurm_Job_Arrays](https://help.rc.ufl.edu/doc/SLURM_Job_Arrays)** – Introduction to creating and runnning a SLURM Job Array script
 
 **[Samtools Manual](http://www.htslib.org/doc/samtools.html)** - Cheat sheet for samtools commands
-
 
 **[Bash scripting cheatsheet](https://devhints.io/bash)** - Bash scripting cheatsheet
 
@@ -38,6 +36,4 @@
 
 **[bx-python fix](https://anaconda.org/bioconda/bx-python)** - See here if you're having trouble installing bx-python
 
-
-
-
+**[Basic vi Commands](https://www.cs.colostate.edu/helpdocs/vi.html)** – Helpful guide for understanding vi (visual editor in unix)
